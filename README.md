@@ -19,6 +19,5 @@ Kluczowe Cechy i Modyfikacje Systemu
 - Monitorowanie Środowiskowe: Skonfigurowany pakiet collectd wraz z wtyczkami do odczytu statystyk procesora, częstotliwości rdzeni oraz temperatur układów (sensors).
 - Zarządzanie Plikami i Siecią: Wbudowane pakiety do obsługi dysków sieciowych (ksmbd-server), zaawansowane reguły zapory sieciowej oraz interfejs LuCI w lekkiej i responsywnej wersji.
 
-Struktura Repozytorium
 
   
